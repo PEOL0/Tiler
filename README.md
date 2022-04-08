@@ -6,8 +6,11 @@
 # Tiler
 This script takes images generated with lastools lastile and las2dem and puts them together into a complete image. Input and output file formats are limited to the formats that python pillow can handle.
 
+
 |                    | Features include:                            |
 |:------------------:|----------------------------------------------|
 | :white_check_mark: | Multiple images format supported             |
-| :white_check_mark: | *Efficient* code                             |
+| :white_check_mark: | Efficient* code                             |
 | :white_check_mark: | Set the grid size to anything you would like |
+
+\*Subjective assesment
