@@ -1,6 +1,5 @@
 import argparse
 import os
-import argparse
 import pathlib
 from tabnanny import verbose
 from PIL import Image as img
